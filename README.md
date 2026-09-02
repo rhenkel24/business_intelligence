@@ -2,3 +2,4 @@
 # ISA 401: Business Intelligence & Data Visualization
 Reagan Henkel
 Semester: Fall 2026
+Initial commit: Add README
