@@ -3,3 +3,7 @@
 Reagan Henkel
 Semester: Fall 2026
 Initial commit: Add README
+##Tools
+*Git
+*GitHub
+*R
