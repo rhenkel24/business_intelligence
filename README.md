@@ -7,3 +7,4 @@ Initial commit: Add README
 *Git
 *GitHub
 *R
+*Rstudio
